@@ -1,4 +1,6 @@
-- 👋 Hi,I’m @RahullShahh
+
+![smile-nick-wilde](https://github.com/RahullShahh/RahullShahh/assets/133704190/5a57f613-a064-4c06-913c-8f7717b05edb)
+- 👋Hi,I’m @RahullShahh
 
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
