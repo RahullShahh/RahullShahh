@@ -1,6 +1,4 @@
-                              ![hi-spiderman](https://github.com/RahullShahh/RahullShahh/assets/133704190/9ddf99a9-5a0a-420e-a915-9be76faa7908)
-
-                                                     - 👋 Hi,I’m @RahullShahh
+- 👋 Hi,I’m @RahullShahh
 
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
