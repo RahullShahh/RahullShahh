@@ -1,7 +1,14 @@
-
-<center>![smile-nick-wilde](https://github.com/RahullShahh/RahullShahh/assets/133704190/5a57f613-a064-4c06-913c-8f7717b05edb)</center>
-<center>- 👋Hi,I’m @RahullShahh</center>
-
+<h1 align="center">Hello World</h1>
+<div align="center"><img src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif"></img></div>
+<p align="center"> 
+  - 👋 Hi,I’m Rahul Shah.
+</p>
+<p align="center"> 
+  - 🌱 I’m currently pursuing B.E. in Computer Engineering at L.J.I.E.T. College.
+</p>  
+<p align="center"> 
+  - 📫 How to reach me : <a href="https://www.linkedin.com/in/rahul-0810-shah/">here</a>
+</p>
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
